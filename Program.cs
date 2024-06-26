@@ -1,3 +1,6 @@
+using Expensely.Models;
+using Microsoft.EntityFrameworkCore;
+
 namespace Expensely
 {
     public class Program
@@ -8,7 +11,9 @@ namespace Expensely
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddDbContext<ExpenselyDbContext>(options =>
+                options.UseInMemoryDatabase("ExpenselyDb")
+            );
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

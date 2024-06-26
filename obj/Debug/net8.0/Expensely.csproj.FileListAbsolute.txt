@@ -28,3 +28,8 @@ C:\Users\Dan\source\repos\Expensely\Expensely\obj\Debug\net8.0\refint\Expensely.
 C:\Users\Dan\source\repos\Expensely\Expensely\obj\Debug\net8.0\Expensely.pdb
 C:\Users\Dan\source\repos\Expensely\Expensely\obj\Debug\net8.0\Expensely.genruntimeconfig.cache
 C:\Users\Dan\source\repos\Expensely\Expensely\obj\Debug\net8.0\ref\Expensely.dll
+C:\Users\Dan\source\repos\Expensely\Expensely\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dan\source\repos\Expensely\Expensely\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dan\source\repos\Expensely\Expensely\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Dan\source\repos\Expensely\Expensely\obj\Debug\net8.0\Expensely.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\Expensely\Expensely\obj\Debug\net8.0\Expensely.csproj.Up2Date
