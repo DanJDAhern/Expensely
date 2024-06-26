@@ -20,3 +20,13 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.to-do-list {
+    text-align: left;
+}
+
+.to-do-list-title {
+    text-align: left;
+    font-weight: bold;
+
+}
